@@ -31,8 +31,8 @@ $(function () {
 
 
     // TODO 2 - Create Platforms
-console.log(createPlatform(400, 600, 100, 50))
-console.log(createPlatform(600, 500, 100, 45))
+console.log(createPlatform(350, 500, 100, 50))
+console.log(createPlatform(400, 550, 150, 60))
 
 
 
