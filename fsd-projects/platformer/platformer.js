@@ -32,9 +32,9 @@ $(function () {
 
     // TODO 2 - Create Platforms
 console.log(createPlatform(350, 500, 100, 50))
-console.log(createPlatform(400, 550, 150, 60))
+console.log(createPlatform(800, 550, 150, 60))
 console.log(createPlatform(350, 500, 100, 50))
-console.log(createPlatform(400, 550, 150, 60))
+console.log(createPlatform(700, 600, 300, 75))
 console.log(createPlatform(350, 500, 100, 50))
 
     // TODO 3 - Create Collectables
